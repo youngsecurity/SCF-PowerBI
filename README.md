@@ -3,9 +3,9 @@
 Demo screenshots of the Secure Controls Framework (SCF) in Power Bi.
 - Save SCF.pbit file and open with Microsoft Power Bi Desktop
 - Automatically pulls source .xlsx from SCF website.
-- Load 
+- Load SCFIcons.json if desired
 
-There are around 30 million individual rows for the one-to-one control mappings, so it may take 30+ minutes to perform the data transformation steps the first time. I plan to improve that. 
+There are around 30 million individual rows for the one-to-one control mappings table, so it may take 30+ minutes to perform the data transformation steps the first time. I plan to improve that. 
   
 Authoritative Sources: 
 - Example filtered
