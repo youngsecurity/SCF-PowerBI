@@ -20,10 +20,10 @@ SCF:
 - Most control filters included in limited screen real estate
 ![Screenshot 2023-06-28 185014](https://github.com/secscripts/SCF_PowerBI/assets/25989993/21fefa1a-3297-4fee-b352-5e0c0cc6bfda)
 
-Assessment Objectives and Evidence Requeset List:
-- ![AssessmentObjectives](https://github.com/secscripts/SCF_PowerBI/assets/25989993/567ac212-a03f-455b-ad1c-501b41dabc89)
-- 
-- ![ERL](https://github.com/secscripts/SCF_PowerBI/assets/25989993/f64a6397-bffb-4efa-a583-2dfb0e44a8dd)
+Assessment Objectives and Evidence Request List:
+![AssessmentObjectives](https://github.com/secscripts/SCF_PowerBI/assets/25989993/567ac212-a03f-455b-ad1c-501b41dabc89)
+  
+![ERL](https://github.com/secscripts/SCF_PowerBI/assets/25989993/f64a6397-bffb-4efa-a583-2dfb0e44a8dd)
 
 Risk and Threat Catalog:
 ![Risks](https://github.com/secscripts/SCF_PowerBI/assets/25989993/64e9f8b6-b630-45f8-a3db-df2f19ec3f4f)
